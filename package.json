@@ -1,0 +1,15 @@
+{
+  "name": "disctrolley",
+  "version": "1.0.0",
+  "description": "We do a little trolling",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "NuclideK",
+  "license": "WTFPL",
+  "dependencies": {
+    "jimp": "^0.22.7"
+  }
+}
